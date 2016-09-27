@@ -1,15 +1,15 @@
 {
-  "name": "ng-inline",
-  "version": "0.0.2",
-  "homepage": "https://github.com/zachsnow/ng-inline",
+  "name": "ng-inline-deferred",
+  "version": "0.0.1",
+  "homepage": "git@github.com:nikolay-zakharov/ng-inline-deferred.git",
   "authors": [
-    "Zach Snow <z@zachsnow.com>"
+    "Nikolay Zakharov <coding@nikolay-zakharov.ru>"
   ],
-  "description": "Fast, simple template inclusion for AngularJS",
+  "description": "Fast, simple template inclusion for AngularJS with deferred",
   "dependencies": {
     "angular": ">=1.2.16"
   },
-  "main": "src/inline.js",
+  "main": "src/inline-deferred.js",
   "keywords": [
     "ng-inline"
   ],
